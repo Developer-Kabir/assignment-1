@@ -1,0 +1,37 @@
+body{
+    background-color: #fff;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.header{
+
+}
+h1{
+    font-size: 40px;
+}
+
+
+
+
+footer {
+    height: 120px;
+    background-color: #0b0d17;
+}
+
+.footer-mission{
+    color: white;
+    text-align: center;
+    font-size: 30px; 
+    padding-top: 15px;  
+}
+h6{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+span{
+    color: #FF4500
+    ;#FF4500
+}
