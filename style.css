@@ -2,6 +2,7 @@ body{
     background-color: #fff;
     font-family: 'Roboto Mono', sans-serif;
 }
+
 .container{
     padding: 40px 100px 0 100px;
 }
@@ -9,6 +10,7 @@ body{
 .header{
      margin-top: 60px;
 }
+
 .header-box{
     display: flex;
 }
@@ -17,15 +19,17 @@ h1{
     font-size: 50px;
     font-weight: 900;
 }
+
 .half-width{
     flex-grow: 1;
     flex-basis: 50%;
 }
+
 .box{
     padding-left: 20px;
     border-left: 4px solid royalblue;
-
 }
+
 .header-image{
     width: 450px;
     height: 350px;
@@ -41,6 +45,7 @@ button{
     border-radius: 10px;
     height: 50px;
 }
+
 button a {
     text-decoration: none;
     padding: 20px;
@@ -51,18 +56,20 @@ button a {
 .mission{
     height: 500px;
 }
+
 .mision-header{
     color : #13103a;
     text-align: center;
     font-size: 40px;
     margin-top: 40px;
 }
+
 .mission-box{
     display: flex;
     justify-content: space-evenly;
     flex-grow: 1;
-
 }
+
 .box-item{
     height: 320px;
     width: 300px;
@@ -80,6 +87,7 @@ button a {
 #box-3 {
     background-color: silver;
 }
+
 .box-item img {
     height: 120px;
     width: 140px;
@@ -89,6 +97,7 @@ button a {
     height: 400px;
     margin-top: 50px;
 }
+
 .office-setup{
 display: flex;
 flex-grow: 1;
@@ -99,24 +108,23 @@ justify-content: space-around;
 width: 50%;
 }
 
-
-
 .office-image img{
     height: 300px;
     width: 450px;
     border: 1px solid white;
     border-radius: 20px;
 }
+
 .team-image{
     float: right;
     margin-left: 48px;
+    margin-top: -10px;
 }
 
 .contact{
-    height: 300px;
+    height: 350px;
     display: flex;
     margin-top: 60px;
-
 }
 
 .contact-area{
@@ -125,7 +133,7 @@ width: 50%;
 
 .form{
     width: 500px;
-    height: 240px;
+    height: 260px;
     background-color: rgb(223, 230, 236);
     border-radius: 1px solid white;
     border-radius: 10px;
@@ -136,9 +144,9 @@ width: 50%;
 .item {
     width: 400px;
     border: none;
-    border-bottom: 2px solid rgb(135, 189, 255);
+    border-bottom: 2px solid rgb(111, 144, 236);
     background-color: rgb(223, 230, 236);
-    margin-bottom: 10px;
+    margin-bottom: 13px;
 }
 footer {
     height: 120px;
