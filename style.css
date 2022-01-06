@@ -1,6 +1,6 @@
 body{
     background-color: #fff;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', sans-serif;
 }
 .container{
     padding: 40px 100px 0 100px;
@@ -112,7 +112,34 @@ width: 50%;
     margin-left: 48px;
 }
 
+.contact{
+    height: 300px;
+    display: flex;
+    margin-top: 60px;
 
+}
+
+.contact-area{
+    width: 50%;
+}
+
+.form{
+    width: 500px;
+    height: 240px;
+    background-color: rgb(223, 230, 236);
+    border-radius: 1px solid white;
+    border-radius: 10px;
+    padding: 30px 50px;
+    box-shadow: 10px 10px 5px rgb(214, 214, 236);
+}
+
+.item {
+    width: 400px;
+    border: none;
+    border-bottom: 2px solid rgb(135, 189, 255);
+    background-color: rgb(223, 230, 236);
+    margin-bottom: 10px;
+}
 footer {
     height: 120px;
     background-color: #0b0d17;
